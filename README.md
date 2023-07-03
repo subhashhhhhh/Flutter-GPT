@@ -1,4 +1,4 @@
-# flutter_gpt
+# Flutter GPT
 
 A ChatGPT app so I can easily use it anywhere.
 
