@@ -1,6 +1,4 @@
-# Flutter GPT
-
-A ChatGPT app so I can easily use it anywhere.
+I'm not working on this anymore since the official ChatGPT is released for Android
 
 ## Getting Started
 
